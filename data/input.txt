@@ -1,0 +1,12 @@
+CONTROL_FIELD_ID=CCF-001
+STATE=initialized
+MODE=procedural_reentry
+PRIMARY_SIGNAL=continuity
+SECONDARY_SIGNAL=integrity
+EXPECTED_STATUS=verified
+
+The control field is active.
+
+Each implementation should read or process this sample input and return a deterministic verification result.
+
+Checksum Control Field evaluates whether identical source material produces consistent output across multiple language environments.
